@@ -1,0 +1,7 @@
+set(pick_and_place_SETUP_PY_SETUP_MODULE "setuptools")
+set(pick_and_place_SETUP_PY_VERSION "0.0.0")
+set(pick_and_place_SETUP_PY_SCRIPTS "")
+set(pick_and_place_SETUP_PY_PACKAGES "pick_and_place")
+set(pick_and_place_SETUP_PY_PACKAGE_DIRS "src/pick_and_place")
+set(pick_and_place_SETUP_PY_MODULES "")
+set(pick_and_place_SETUP_PY_MODULE_DIRS "")

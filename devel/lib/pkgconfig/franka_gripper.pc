@@ -1,0 +1,8 @@
+prefix=/home/shivam/gods_plan/devel
+
+Name: franka_gripper
+Description: Description of franka_gripper
+Version: 0.7.0
+Cflags: -I/home/shivam/gods_plan/devel/include -I/home/shivam/gods_plan/src/franka_ros/franka_gripper/include -I/opt/ros/noetic/include/libfranka
+Libs: -L${prefix}/lib -lfranka_gripper /opt/ros/noetic/lib/libfranka.so.0.8.0
+Requires: roscpp message_runtime control_msgs actionlib sensor_msgs xmlrpcpp actionlib_msgs
